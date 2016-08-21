@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\help1.png",
+        "source": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\src\\main\\res\\drawable-hdpi\\help1.png"
+    },
+    {
+        "merged": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\help.png",
+        "source": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\src\\main\\res\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\help_hand.png",
+        "source": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\src\\main\\res\\drawable-hdpi\\help_hand.png"
+    },
+    {
+        "merged": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.png",
+        "source": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    }
+]

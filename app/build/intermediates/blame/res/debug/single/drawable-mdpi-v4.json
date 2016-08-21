@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\background.png",
+        "source": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hello.png",
+        "source": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\src\\main\\res\\drawable-mdpi\\hello.png"
+    },
+    {
+        "merged": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\help_hand.png",
+        "source": "C:\\Users\\saket\\AndroidStudioProjects\\Sahayata\\app\\src\\main\\res\\drawable-mdpi\\help_hand.png"
+    }
+]
